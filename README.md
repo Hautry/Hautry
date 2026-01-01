@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Hautry</h1>
-<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hautry&label=Profile%20views&color=0e75b6&style=flat" alt="hautry" />
@@ -42,25 +41,3 @@
 
 #### Desktop Development
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hautry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hautry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hautry&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Let's connect and chat! Open to collaborate on interesting projects.</i>
-</p>
